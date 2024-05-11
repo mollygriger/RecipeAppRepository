@@ -25,6 +25,11 @@ Recipe App is a mobile application configured for Android platforms. The applica
 - 'RecipesViewModelTest' class tests all ViewModel functionalities.
 - Use 'getOrAwaitValue' from 'TestUtils.kt' to test LiveData implementation
 
+## Update Procedures
+1. **Pull Requests**: All changes should be submitted via pull requests to the `main` branch.
+2. **Code Reviews**: Every pull request must be reviewed by at least one other team member before merging.
+3. **Testing**: Update must pass all existing unit tests and, if applicable, new tests should be added.
+
 ## Maintenance Contacts
 - **Lead Developer**: Molly Griger
 - **Contact Email**: molly.griger@csuglobal.edu
